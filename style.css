@@ -5,10 +5,12 @@ body {
 nav {
   background-color: gray;
   color: white;
+  padding: 10px;
 }
 nav a {
   text-decoration: none;
   color: white;
+  padding: 10px;
 }
 nav a:hover {
   text-decoration: none;
@@ -18,4 +20,8 @@ nav a:hover {
 nav .nav {
   padding: 10px;
   background-color: gray;
+}
+nav .active {
+  background-color: lightgreen;
+  padding: 10px;
 }
