@@ -1,1 +1,21 @@
-
+body {
+  margin: 0;
+  font-family: 'Mina', sans-serif;
+}
+nav {
+  background-color: gray;
+  color: white;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+}
+nav a:hover {
+  text-decoration: none;
+  background-color: gray;
+  padding: 10px;
+}
+nav .nav {
+  padding: 10px;
+  background-color: gray;
+}
