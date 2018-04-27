@@ -14,7 +14,6 @@ nav a {
 }
 nav a:hover {
   text-decoration: none;
-  background-color: gray;
   padding: 10px;
 }
 nav .nav {
@@ -22,6 +21,6 @@ nav .nav {
   background-color: gray;
 }
 nav .active {
-  background-color: lightgreen;
-  padding: 10px;
+  background-color: darkgreen;
+  padding: 11px;
 }
